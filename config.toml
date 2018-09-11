@@ -1,8 +1,8 @@
 baseurl = "/"
-title = "Ghostwriter example"
+title = "AGG Strength"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "My Name"
+copyright = "Sergio Navadgerghdsijo"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     useSessionStorage = false
 
 [Author]
-    name = "My Name"
+    name = "Sergio Navadijo"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
@@ -27,8 +27,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
     intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
+    headline = "AGG STRENGTH"
+    description = "BY SERGIO"
     github = "https://github.com/XXX"
     gitlab = "https://gitlab.com/XXX"
     linkedin = "https://linkedin.com/in/XXX/"
@@ -53,7 +53,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Blodfasdfg"
     url = "/"
     weight = 1
 
@@ -63,7 +63,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
 
 [[menu.main]]
-    name = "Contact"
+    name = "Contafdgsfct"
     url = "/page/contact/"
     weight = 3
 
