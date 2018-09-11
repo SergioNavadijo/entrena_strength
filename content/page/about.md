@@ -7,8 +7,26 @@ description = "Things about me."
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+I am a strength and conditioning coach dedicated to Aesthetic Group Gymnastics.
+My goal is clear: improve strength and power in A.G.G. gymnasts.
 
-## School
+After I got a degree in Sports Science, I coached a variety of athletes in many different sports.
+When I moved to Finland, I realized that gymnasts were continually suffering injuries and unable to improve their performance.
+Many of the girls end up quitting the sports after being physically hurt and frustrated due to lack of results.
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+Once I had the chance to apply basic strength training principles, I saw incredible results in jumping power and postural control.
+All this while reducing the number of injuries significantly!
+
+Now, I am on a mission to make A.G.G a more competitive sport, and I want you and your team to have stronger, healthier gymnasts.
+
+## Credentials
+
+* Extensive experience as a strength and conditioning coach in AGG, aerobic gymnastics, tennis, powerlifting, Olympic lifting, professional football, and professional basketball in Spain, Sweden, and Finland.
+
+* Degree in Sports and Exercise Science at Ramon Lull-Blanquerna University, Barcelona, Spain (2010-2014).
+
+* Certified in training and sports nutrition for high-performance, University of Barcelona, Spain (2012).
+
+* Certified in Sports Injury Rehab, University of Barcelona, Spain (2011).
+
+* Certified in Advanced Sports Nutrition, University of Barcelona, Spain (2011).

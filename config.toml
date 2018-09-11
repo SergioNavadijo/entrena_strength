@@ -1,8 +1,8 @@
 baseurl = "/"
-title = "AGG Strength"
+title = "Sergio Navadijo"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "Sergio Navadgerghdsijo"
+copyright = "Sergio Navadijo"
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -24,18 +24,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Taxonomies]
     tag = "tags"
+    
+
 
 [Params]
     intro = true
     headline = "AGG STRENGTH"
-    description = "BY SERGIO"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
+    description = "Strength and conditioning for Aesthetic Group Gymnastics"
+    email = "sergionavadijo@gmail.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
@@ -53,17 +49,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Blodfasdfg"
+    name = "Blog"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
+    name = "The book"
     url = "/project/"
     weight = 2
 
 [[menu.main]]
-    name = "Contafdgsfct"
+    name = "Coaching"
     url = "/page/contact/"
     weight = 3
 
