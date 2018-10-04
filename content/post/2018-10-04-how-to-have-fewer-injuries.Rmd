@@ -1,13 +1,12 @@
 ---
-title: The war on injuries
+title: How to have fewer injuries
 author: ''
 date: '2018-10-04'
-slug: how-to-prevent-injuries
+slug: how-to-have-fewer-injuries
 categories: []
 tags: []
 description: ''
 ---
-
 From acute and chronic low back pain to knee problems and ankle sprains, you are probably familiar with AGG injuries.
 One non-solution is to take this for granted and to tell yourself that every sport has injuries and gymnastics is no different. Another is to argue that AGG is unique because the body isn't meant to flex and extend as gymnasts do. 
 
@@ -44,13 +43,14 @@ Don’t wait to get seriously hurt to start strength training.
 
 If you liked the article, share it so others may benefit.
 
-References:
+#### References:
 
-Jayanthi, N., Pinkham, C., Dugas, L., Patrick, B., & Labella, C. (2013). Sports specialization in young athletes: evidence-based recommendations. Sports Health, 5(3), 251–7. doi:10.1177/1941738112464626
+1.     Jayanthi, N., Pinkham, C., Dugas, L., Patrick, B., & Labella, C. (2013). Sports specialization in young athletes: evidence-based recommendations. Sports Health, 5(3), 251–7. doi:10.1177/1941738112464626
 
-Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials. British Journal of Sports Medicine, 48(11), 871–7. doi:10.1136/bjsports-2013-092538
+2.     Lauersen, J. B., Bertelsen, D. M., & Andersen, L. B. (2014). The effectiveness of exercise interventions to prevent sports injuries: a systematic review and meta-analysis of randomised controlled trials. British Journal of Sports Medicine, 48(11), 871–7. doi:10.1136/bjsports-2013-092538
 
-Myer, G. D., Jayanthi, N., DiFiori, J. P., Faigenbaum, A. D., Kiefer, A. W., Logerstedt, D., & Micheli, L. J. (2016). Sports Specialization, Part II: Alternative Solutions to Early Sport Specialization in Youth Athletes. Sports Health, 8(1), 65–73. doi:10.1177/1941738115614811
+3.     Myer, G. D., Jayanthi, N., DiFiori, J. P., Faigenbaum, A. D., Kiefer, A. W., Logerstedt, D., & Micheli, L. J. (2016). Sports Specialization, Part II: Alternative Solutions to Early Sport Specialization in Youth Athletes. Sports Health, 8(1), 65–73. doi:10.1177/1941738115614811
 
-Piazza, M., Battaglia, C., Fiorilli, G., Innocenti, G., Iuliano, E., Aquino, G., … Di Cagno, A. (2014). Effects of resistance training on jumping performance in pre-adolescent rhythmic gymnasts: a randomized controlled study. Italian Journal of Anatomy and Embryology = Archivio Italiano Di Anatomia Ed Embriologia, 119(1), 10–9. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/25345071
+4.     Piazza, M., Battaglia, C., Fiorilli, G., Innocenti, G., Iuliano, E., Aquino, G., … Di Cagno, A. (2014). Effects of resistance training on jumping performance in pre-adolescent rhythmic gymnasts: a randomized controlled study. Italian Journal of Anatomy and Embryology = Archivio Italiano Di Anatomia Ed Embriologia, 119(1), 10–9. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/25345071
+
 
