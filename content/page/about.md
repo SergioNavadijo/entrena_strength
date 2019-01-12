@@ -2,10 +2,8 @@
 title = "About"
 date = 2015-04-03T02:13:50Z
 author = "My Name"
-description = "Things about me."
+description = ""
 +++
-
-## About
 
 I am a strength and conditioning coach dedicated to Aesthetic Group Gymnastics.
 My goal is clear: improve strength and power.
@@ -21,7 +19,7 @@ Now, I am on a mission to make A.G.G a more competitive sport, and I want you an
 
 ## Credentials
 
-* Extensive experience as a strength and conditioning coach in AGG, aerobic gymnastics, tennis, powerlifting, Olympic lifting, professional football, and professional basketball in Spain, Sweden, and Finland.
+* Extensive experience as a strength and conditioning coach in aesthetic group gymnastics, aerobic gymnastics, tennis, powerlifting, Olympic lifting, professional football, and professional basketball in Spain, Sweden, and Finland.
 
 * Degree in Sports and Exercise Science at Ramon Lull-Blanquerna University, Barcelona, Spain (2010-2014).
 
