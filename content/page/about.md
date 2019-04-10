@@ -6,13 +6,15 @@ description = ""
 +++
 
 I am a strength and conditioning coach dedicated to Aesthetic Group Gymnastics.
-My goal is clear: improve strength and power.
+My goal is to improve your strength and power so that you can become a better gymnast.
 
 After I got a degree in Sports Science, I coached a variety of athletes in many different sports.
+
 When I moved to Finland, I realized that gymnasts were continually suffering injuries and unable to improve their performance.
 Many of the girls end up quitting the sport after being physically hurt and frustrated due to lack of results.
 
 Once I had the chance to apply basic strength training principles, I saw incredible results in jumping power and postural control.
+
 All this while reducing the number of injuries significantly!
 
 Now, I am on a mission to make A.G.G a more competitive sport, and I want you and your team to have stronger, healthier gymnasts.
