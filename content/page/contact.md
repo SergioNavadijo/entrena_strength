@@ -13,7 +13,7 @@ description = "Price and how to contact me"
 | Find out if you like it      | Improve your core strength | Minimize injury risk |
 | Get to know the basic strength exercises| 100% individualized training   | Long-term progress that will give you the best results |
 
-* All prices are for personal training.
+* All prices are for personal training one on one.
 * The payment must be made in advance as a salary from your sports club.
 * You get all your money back if you aren’t happy with the results.
 * All trainings last 60 minutes and are done in Attitude Sports, Martinkyläntie 53, Vantaa.
