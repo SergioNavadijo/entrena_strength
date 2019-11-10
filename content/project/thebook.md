@@ -15,5 +15,5 @@ For this reason, I have decided to write a book that will go through both the th
 
 This book is for any coach, gymnast, physiotherapist, or parent interested in knowing why and how gymnasts should strength train. 
 
-If you can't wait until this is published and you are interested in in-person coaching in Vantaa(Finland), get in touch with me at: <sergionavadijo@gmail.com>.
+If you can't wait until this is published and you are interested in in-person coaching in Vantaa(Finland), check the price on the coaching section on this website and get in touch with me at: <sergionavadijo@gmail.com>.
 
