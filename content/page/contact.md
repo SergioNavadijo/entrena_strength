@@ -5,4 +5,6 @@ author = "My Name"
 description = ""
 +++
 
-I am only available for coaching in 2 Finnish teams: Gloria (women's category) and Attitude Minor (10 to 12 years old). If you need coaching, you are welcome to join these teams!
+I am only available for coaching in 2 teams, both in Finland: Gloria in the women's category and Attitude Minor in the 10 to 12 years old category. 
+
+If you need strength and conditioning training for A.G.G., you are welcome to join these teams!
