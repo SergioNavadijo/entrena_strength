@@ -7,4 +7,4 @@ description = ""
 
 I am only available for coaching in 2 teams, both from Finland. [Gloria](https://pnv.fi/kilpailu-valmennus/joukkueet/gloria/) in the women's category and [Attitude Minor](https://attitudesports.fi/attitude-minor/) in the 10 to 12 years old category. 
 
-If you need strength and conditioning training for A.G.G., don't hesitate to apply and join these teams!
+Don't hesitate and apply to join these teams!
