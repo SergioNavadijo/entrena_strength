@@ -1,7 +1,7 @@
 ---
 title: Athletes first, gymnasts second
 author: Sergio Navadijo
-date: '2019'
+date: '2020-03-10'
 slug: athletes-first-gymnasts-second
 categories: []
 tags: []
