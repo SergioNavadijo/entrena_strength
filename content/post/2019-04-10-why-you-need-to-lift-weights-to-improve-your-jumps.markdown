@@ -1,7 +1,7 @@
 ---
 title: Why you need to lift weights to jump high
 author: Sergio Navadijo
-date: '2019-04-10'
+date: ''
 slug: why-you-need-to-lift-weights-to-improve-your-jumps
 categories: []
 tags: []
