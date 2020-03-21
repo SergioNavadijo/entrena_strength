@@ -9,11 +9,15 @@ author = "My name"
 
 I am constantly asked by numerous teams and coaches to do online training programs or to come and give seminars.
 
-However, I wouldn't feel comfortable just sending an online program with exercises or speaking about training for a half hour and hope that it would provide the results that you want. I need to be sure that you will know how to do the exercises with proper technique and without hurting yourself.
+However, I wouldn't feel comfortable just sending an online program with exercises or speaking about training for a half hour and hope that it would provide the results that you want. 
+
+I need to be sure that you will know how to do the exercises with proper technique and without hurting yourself.
 
 For this reason, I have decided to write a book that will go through both the theory and the practice of strength training in A.G.G. It will have greater depth and be more helpful to you than any online training program or seminar. 
 
 This book is for any coach, gymnast, physiotherapist, or parent interested in knowing why and how gymnasts should strength train. 
 
-While I am still in the middle of it and it doesn't have a release date yet, you will know when it's out. Please stay patient until then!
+While I am still in the middle of it and it doesn't have a release date yet, you will know when it's out. 
+
+Please be patient until then!
 
