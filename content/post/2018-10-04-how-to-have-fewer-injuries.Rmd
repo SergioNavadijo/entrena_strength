@@ -18,7 +18,7 @@ While there is some truth to those narratives, there are also things that you ca
 Here are some of the most important:
 
 
-__Strength training__
+##Strength training
 
 A review of 25 studies in 2013 that included a total of 26610 athletes concluded that **strength training reduced sports injuries to less than one third.** 
 
@@ -42,8 +42,7 @@ Don't fear the weights: every athlete works hard in the gym, and there is no rea
 
 Don’t wait to get seriously hurt to start strength training!
 
-
-__Let injuries heal__
+##Let injuries heal
 
 Gymnasts will rush getting back to training while still injured, but recovery times need to be respected.
 
@@ -67,7 +66,7 @@ The human body, while extremely complex, often gives us clues on what it needs. 
 Young gymnasts need to be treated with extra caution because they are less attuned with their bodies.
 
 
-__High-level gymnastics is not for everyone__
+##High-level gymnastics is not for everyone
 
 Gymnasts come in all shapes and sizes, but the ones that are built for AGG are scarce. 
 

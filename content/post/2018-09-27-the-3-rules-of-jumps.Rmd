@@ -30,7 +30,7 @@ If you were alert in school, you might be familiar with the following: **Force =
 But don't worry, you don't need to re-learn these formulas, or even understand them. All you need to remember is how to use them practically. The best way to do it is to follow the 3 rules of jumps.
 
 
-### Rule 1: Put more force into the ground
+## Rule 1: Put more force into the ground
 
 The easiest way to develop this ability is to **train against an external resistance**. 
 
@@ -55,7 +55,7 @@ However, **if you can invest in a professional strength and conditioning coach, 
 Look for somebody with experience that has a track record of results with other athletes.
 
 
-### Rule 2: Put force into the ground quicker
+## Rule 2: Put force into the ground quicker
 
 Being strong is not enough, and even if you can apply a lot of force into the ground, you need to put this force into the ground quickly.
 
@@ -88,7 +88,7 @@ You can be very strong, but if you can't use that strength in a short amount of 
 Don't just do one of them in isolation!
 
 
-### Rule 3: Lose extra weight
+## Rule 3: Lose extra weight
 
 Imagine 2 gymnasts that can put the same amount of force into the ground, and they can put that force into the ground just as quick -as the examples of rules 1 and 2.
 

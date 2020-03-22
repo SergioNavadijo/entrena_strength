@@ -26,7 +26,7 @@ While athletes from most sports peak between 22 and 28 years old, usually gymnas
  
 
 
-__Inevitable early specialization__
+##Inevitable early specialization
 
 Why do gymnasts specialize so early? 
 
@@ -51,7 +51,7 @@ However, it's not likely to happen.
 So if we can't train several sports simultaneously, how can we minimize the detrimental effects of sports specialization?
 
 
-__What you can do__
+##What you can do
 
 I suggest two things: **movement variety** in warmups and **strength training.**
 
