@@ -22,9 +22,8 @@ If you add to this school attendance, homework, and whatever reduced form of soc
 
 AGG is somewhat peculiar in that the performance peak is very early in life: between 16 and 20 years old. 
 
-While athletes from most sports peak between 22 and 28 years old, usually gymnasts are underage when they need to be at the best of their abilities. 
- 
-
+While athletes from most sports peak between 22 and 28 years old, usually gymnasts are underage when they need to be at the best of their abilities.  
+<br />
 
 ##Inevitable early specialization
 
@@ -48,8 +47,8 @@ In a perfect world, every gymnast would have a background in various sports and 
 
 However, it's not likely to happen.
 
-So if we can't train several sports simultaneously, how can we minimize the detrimental effects of sports specialization?
-
+So if we can't train several sports simultaneously, how can we minimize the detrimental effects of sports specialization?  
+<br />
 
 ##What you can do
 
