@@ -17,4 +17,4 @@ description = "Price and contact"
 
 **All your money back if you aren’t happy with the results.**
 
-Contact me at <sergionavadijo@gmail.com>
+Contact me at <sergionavadijo@protonmail.com>
