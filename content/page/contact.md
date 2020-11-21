@@ -3,17 +3,24 @@ title = "coaching"
 description = "Price and contact"
 +++
 
-| Tryout        |       Stronger       | Competitive  |
-| ------------- |:-------------:| --:|
-| 125€/1 training      |     999€/10 trainings        | 2499€/30 trainings |
-| Single time training     |Jump higher          |   Stay strong the whole season |
-| No compromise | Develop a stronger upper body for AGG lifts |     Develop power that will show on the carpet |
-| Find out if you like it      | Improve your core strength | Reduce injury risk |
-| Get to know the basic strength exercises| 100% individualized training   | Long-term progress that will give you the best results |
+  What you get:
+---
+* Higher jumps.
+* Core strength and stability for gymnastics.
+* Stronger upper body for AGG lifts.
+* Power that will show on the carpet.
+* Reduced injury risk.
+* Semi-inidvidualized training.
+* Mastery in the basic strength exercises that work for you.
+* Long-term progress that will give you the best results.
 
-* All prices are for groups of 1 to 4 gymnasts.
-* The payment must be made in advance as a salary from your sports club.
-* All trainings last 60 minutes and are done in Attitude Sports, Martinkyläntie 53, Vantaa.
+  Price and place:
+---
+* 100 euros per training for one group of up to four gymnasts.
+* The payment must be made monthly in advance, as a salary from your sports club.
+* All trainings last 60 minutes and take place in Attitude Sports, Martinkyläntie 53, Vantaa.
+* Cancel whenever you want.
+
 
 **All your money back if you aren’t happy with the results.**
 
