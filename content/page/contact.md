@@ -11,7 +11,7 @@ description = "Price and contact"
 | Find out if you like it      | Improve your core strength | Reduce injury risk |
 | Get to know the basic strength exercises| 100% individualized training   | Long-term progress that will give you the best results |
 
-* All prices are for personal training one on one. 
+* All prices are for groups of 1 to 4 gymnasts.
 * The payment must be made in advance as a salary from your sports club.
 * All trainings last 60 minutes and are done in Attitude Sports, Martinkyläntie 53, Vantaa.
 
