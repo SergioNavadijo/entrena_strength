@@ -19,7 +19,7 @@ description = "Price and contact"
 * 100 euros per training for one group of up to four gymnasts.
 * The payment must be made monthly in advance, as a salary from your sports club.
 * All trainings last 60 minutes and take place in Attitude Sports, Martinkyläntie 53, Vantaa.
-* Cancel whenever you want.
+* Cancel without compromise any time you want.
 
 
 **All your money back if you aren’t happy with the results.**
